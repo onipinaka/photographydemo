@@ -3,7 +3,7 @@ import { motion } from 'motion/react';
 
 export function Hero() {
   return (
-    <section id="home" className="relative w-full min-h-[90vh] pt-32 lg:pt-0 flex items-center overflow-hidden bg-transparent">
+    <section id="home" className="relative w-full min-h-[90vh] pt-32 lg:pt-40 flex items-center overflow-hidden bg-transparent">
       
       {/* Decorative Botanical Leaf (Abstract SVG representation) */}
       <div className="absolute top-[10%] right-[40%] opacity-[0.15] pointer-events-none text-[#b39556] w-[400px] h-[400px] hidden lg:block">
