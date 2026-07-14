@@ -13,7 +13,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Tora - Wedding Photography",
+  title: "Athavani  - Wedding Photography",
   description: "Capture Your Perfect Wedding Moments",
 };
 
